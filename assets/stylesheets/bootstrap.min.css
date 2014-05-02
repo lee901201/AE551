@@ -13,6 +13,7 @@
    margin-right:20px;
    margin-left:20px;
    width: 100%
+   background-color: #007da7
  }
  
  .navbar-inner a {
@@ -22,6 +23,7 @@
  
  .navbar-inner .dropdown-menu li a {
    font-size: 1em;
+   background-color: #007da7
  }
  
  

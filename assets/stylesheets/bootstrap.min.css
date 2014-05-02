@@ -17,6 +17,7 @@
  
  .navbar-inner a {
 	font-size: 2em;
+	background-color: #007da7;
  }
  
  .navbar-inner .dropdown-menu li a {

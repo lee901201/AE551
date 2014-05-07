@@ -4,7 +4,7 @@ structure:
 - section: Collecting Procedures
   subsection: [Preparation, Collecting_Steps, Spectra_Correction, Save]
 - Spectra_Correction
-  subsection: [Smoothing, Normalization, Baseline Correction]
+  subsection: [Smooth, Normalization, Baseline_Correction]
 - section: Further Analysis
   subsection: [R]
 

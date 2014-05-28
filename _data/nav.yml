@@ -1,6 +1,6 @@
 structure:
 - section: Welcome
-  subsection: [Motivation]
+  subsection: [Motivation,Video]
 - section: Collecting Procedures
   subsection: [Preparation, Collecting_Steps, Spectra_Correction, Save]
 - section: Further Analysis
